@@ -23,4 +23,14 @@ Follow these steps to set up the project locally:
     cd repository-name
 3. **Open the index.html File**
      Open index.html in your preferred web browser to view the project.
-
+## Usage
+1. Ensure you have a local server running to serve the HTML file. 
+2. Open index.html to interact with the front-end interface.
+## Contribution Guidelines
+1. **Fork the Repository:**
+ Create a personal copy of the repository.
+2. **Create a Branch:** Use a descriptive name for the branch (e.g., feature/add-navbar).
+3. **Commit Changes:** Make changes and commit them with clear messages.
+4. **Open a Pull Request:** Once the changes are ready, open a pull request to merge the branch into the main repository.
+## Contact
+For any questions or suggestions, please reach out via the repository's issue tracker or contact the maintainers.
