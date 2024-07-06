@@ -19,7 +19,7 @@ This project involves the development of a responsive and user-friendly front-en
 Follow these steps to set up the project locally:
 
 1. **Clone the Repository**
-   git clone https://github.com/your-username/repository-name.git
+   git clone [https://github.com/kaakanksha2310/CSSProject1.git]
 2. **Navigate to the Project Directory**
     cd repository-name
 3. **Open the index.html File**
