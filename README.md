@@ -1,5 +1,5 @@
 # Front-End Development Project
-![Website Screenshot](proj1.png)
+![Website Screenshot](Proj1.png)
 
 This project involves the development of a responsive and user-friendly front-end interface using HTML, CSS, and JavaScript. The design includes dynamic content rendering and cross-browser compatibility, ensuring a seamless user experience.
 
