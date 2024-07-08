@@ -6,8 +6,6 @@ This project involves the development of a responsive and user-friendly front-en
 ## Technologies Used
 - **HTML5**: Structuring the content.
 - **CSS3**: Styling and layout.
-- **JavaScript**: Adding interactivity.
-- **React**: Building reusable components and efficient rendering.
 
 ## Features
 - Responsive design for various devices and screen sizes.
